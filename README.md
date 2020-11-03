@@ -1,7 +1,8 @@
-## 💚 Stats
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HWYWL&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HWYWL&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+#### Stats 👏
 
-## 🌐 找到我
+> 我的主业是一名Java开发.  
+> 单片机开发爱好者.
 
-- 个人博客：https://hwy.ac.cn
+🔗 https://hwy.ac.cn
