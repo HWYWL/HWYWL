@@ -6,3 +6,8 @@
 > 单片机开发爱好者.
 
 🔗 https://hwy.ac.cn
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
