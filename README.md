@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HWYWL&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 #### Stats 👏
@@ -7,7 +8,3 @@
 
 🔗 https://hwy.ac.cn
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
