@@ -7,7 +7,7 @@
 
 <!-- first row -->
 <p align="center">
-<a href="https://hwy.ac.cn"><img src="https://komarev.com/ghpvc/?username=biezhi">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbiezhi&longCache=true">
+<a href="https://hwy.ac.cn"><img src="https://komarev.com/ghpvc/?username=HWYWL">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbiezhi&longCache=true">
 </a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
