@@ -13,25 +13,18 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
-### 👀 Active Repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HWYWL&repo=spring-boot-2.x-examples)](https://github.com/HWYWL/spring-boot-2.x-examples)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HWYWL&repo=uccn)](https://github.com/HWYWL/uccn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HWYWL&repo=geo)](https://github.com/HWYWL/geo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HWYWL&repo=shrot-url)](https://github.com/HWYWL/shrot-url)
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 🏆 Github Status
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<a align="center" href="">
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=HWYWL&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HWYWL&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
+
 
 ### ☕ Get In Touch
 - 🔭 我的主业是一名Java开发.  
 - 🌱 单片机开发爱好者.
+- 😄 还有其他有趣的: ...
 
 🔗 https://hwy.ac.cn
 
