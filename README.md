@@ -15,12 +15,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 🏆 Github Status
-<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=HWYWL&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-
-
 ### ☕ Get In Touch
 - 🔭 我的主业是一名Java开发.  
 - ❤️ 我的副业是一名大数据开发.  
